@@ -2,7 +2,6 @@
 <h1 align="center">
     <img alt="GoBarber App" src="./src/assets/logo.png" />
     <br>
-    GoBarber App
 </h1>
 
 <h4 align="center">
