@@ -36,3 +36,10 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
  
  
+
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
