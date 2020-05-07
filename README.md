@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber App" src="https://res.cloudinary.com/lukemorales/image/upload/v1564533051/readme_logos/gobarber_hg5ddx.png" />
+    <img alt="GoBarber App" src="./src/assets/logo.png" />
     <br>
     GoBarber App
 </h1>
