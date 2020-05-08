@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="GoBarber App" src="./src/assets/logo.png" />
+    <img alt="GoBarber App" src="./src/assets/pintada.png" />
     <br>
 </h1>
 
