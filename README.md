@@ -3,7 +3,7 @@
     <img alt="GoBarber App" src="./src/assets/pintada.png" />
     <br>
 </h1>
-dd
+
 
 <h4 align="center">
   A mobile application made with React Native & TypeScript built for beauty service providers.
@@ -44,3 +44,5 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+Feito com 💜 by Ginholuca :octocat:.
