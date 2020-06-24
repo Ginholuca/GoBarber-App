@@ -45,4 +45,4 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
-Feito com 💜 by Ginholuca :octocat:.
+Made with 💜 by Ginholuca :octocat:.
